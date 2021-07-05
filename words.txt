@@ -4,4 +4,8 @@ mihai
 dragos
 andrei
 alex
+<<<<<<< HEAD
 mihai
+=======
+mihaita
+>>>>>>> feature
